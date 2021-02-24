@@ -1,0 +1,28 @@
+.scrolling{
+    height: 400px;
+    overflow-y:auto;
+}
+.card{
+    box-shadow:2px 2px 2px 2px rgb(228, 204, 100);
+    margin-bottom: 15px;
+    padding:3px 18px;
+    border-width: 10px;
+}
+.card:hover{
+    box-shadow:2px 3px 3px 2px rgb(224, 77, 77);
+}
+label{
+    font-size: 20px;
+}
+button{
+    font-size:20px;
+}
+input[type=text]{
+    font-size:20px;
+}
+input[type=search]{
+    font-size:20px;
+}
+input[type=submit]{
+    font-size:20px;
+}
